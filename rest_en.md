@@ -115,7 +115,7 @@ _(Always with a side dish)_
 
 ## Desserts
 
-**ChrisCake**, the chef’s cheesecak                               
+**ChrisCake**, the chef’s cheesecake
 > 6,50 €
 
 **Granmather’s Tiramisù**      
