@@ -1,0 +1,65 @@
+﻿name,tags,price,price_takeaway,enabled,created_at,updated_at
+Bruschette miste,"Ristorante,Antipasti",€6.00,€6.00,checked,2023-02-24 09:34,2023-02-24 16:58
+Focaccia Olio aglio e Rosmarino,"Ristorante,Antipasti",€4.00,€4.00,checked,2023-02-24 09:34,2023-02-24 16:58
+Focaccia con Aglio e Mozzarella,"Ristorante,Antipasti",€5.00,€5.00,checked,2023-02-24 09:34,2023-02-24 16:58
+Focaccia Bella Italia,"Ristorante,Antipasti",€6.00,€6.00,checked,2023-02-24 10:09,2023-02-24 16:58
+Caprese di bufala e pomodoro,"Ristorante,Antipasti",€9.00,€9.00,checked,2023-02-24 10:09,2023-02-24 16:58
+Carpaccio di Manzo,"Ristorante,Antipasti",€12.00,€12.00,checked,2023-02-24 10:10,2023-02-24 16:58
+Tagliere Mamma Mia!,"Ristorante,Antipasti",€16.00,€16.00,checked,2023-02-24 10:10,2023-02-24 16:58
+Cozze alla Tarantina,"Ristorante,Antipasti",€12.00,€12.00,checked,2023-02-24 10:10,2023-02-24 16:58
+Carpaccio di polpo,"Ristorante,Antipasti",€12.00,€12.00,checked,2023-02-24 10:10,2023-02-24 16:58
+Cocktail di Gamberi ’80,"Ristorante,Antipasti",€10.00,€10.00,checked,2023-02-24 10:11,2023-02-24 16:58
+Lasagna alla Bolognese,"Ristorante,Pasta",€13.00,€13.00,checked,2023-02-24 10:11,2023-02-24 16:58
+Parmigiana di Melanzane,"Ristorante,Pasta",€10.00,€10.00,checked,2023-02-24 10:11,2023-02-24 16:58
+Spaghetti Italia,"Speghetti,Ristorante,Pasta",€9.00,€9.00,checked,2023-02-24 10:14,2023-02-24 16:58
+"Spaghetti Roma ""cacio e pepe""","Speghetti,Ristorante,Pasta",€10.00,€10.00,checked,2023-02-24 10:14,2023-02-24 16:58
+Spaghetti Amatriciana,"Speghetti,Ristorante,Pasta",€11.00,€11.00,checked,2023-02-24 10:15,2023-02-24 16:58
+Spaghetti Carbonara,"Speghetti,Ristorante,Pasta",€12.00,€12.00,checked,2023-02-24 10:15,2023-02-24 16:58
+Spaghetti Amalfi,"Speghetti,Ristorante,Pasta",€12.00,€12.00,checked,2023-02-24 10:16,2023-02-24 16:58
+Spaghetti ai frutti di mare,"Speghetti,Ristorante,Pasta",€16.00,€16.00,checked,2023-02-24 10:16,2023-02-24 16:58
+Tagliatelle alla Bolognese,"Tagliatellle,Ristorante,Pasta",€12.50,€12.50,checked,2023-02-24 10:16,2023-02-24 16:58
+Tagliatellle ai Porcini,"Tagliatellle,Ristorante,Pasta",€12.50,€12.50,checked,2023-02-24 10:17,2023-02-24 16:58
+Tagliatellle Gamberetti e Zucchine,"Tagliatellle,Ristorante,Pasta",€12.50,€12.50,checked,2023-02-24 10:17,2023-02-24 16:58
+Tagliatellle Panna e Salmone,"Tagliatellle,Ristorante,Pasta",€13.00,€13.00,checked,2023-02-24 10:17,2023-02-24 16:58
+Gnocchi Mamma Mia!,"Gnocchi,Ristorante,Pasta",€13.50,€13.50,checked,2023-02-24 10:19,2023-02-24 16:58
+Gnocchi Sorrentina,"Gnocchi,Ristorante,Pasta",€12.50,€12.50,checked,2023-02-24 10:19,2023-02-24 16:58
+Gnocchi Gorgonzola,"Gnocchi,Ristorante,Pasta",€12.50,€12.50,checked,2023-02-24 10:19,2023-02-24 16:58
+Ravioli di Funghi Porcini e Patate,"Ravioli,Ristorante,Pasta",€14.50,€14.50,checked,2023-02-24 10:19,2023-02-24 16:58
+Ravioli di Branzino e Gamberi,"Ravioli,Ristorante,Pasta",€16.50,€16.50,checked,2023-02-24 10:19,2023-02-24 16:58
+Filetto di Maiale  con crema di funghi porcini,"Ristorante,Carne/Pesce",€19.50,€19.50,checked,2023-02-24 10:22,2023-02-24 16:58
+Filetto di Maiale con riduzione di  Chianti,"Ristorante,Carne/Pesce",€19.50,€19.50,checked,2023-02-24 10:22,2023-02-24 16:58
+Filetto di Manzo alla Griglia,"Ristorante,Carne/Pesce",€21.00,€21.00,checked,2023-02-24 10:22,2023-02-24 16:58
+Filetto di Manzo al Pepe Verde,"Ristorante,Carne/Pesce",€23.50,€23.50,checked,2023-02-24 10:22,2023-02-24 16:58
+Branzino / Orata (s.d.) alla Mediterranea,"Ristorante,Carne/Pesce",€16.50,€16.50,checked,2023-02-24 10:23,2023-02-24 16:58
+Polpo alla Griglia su crema di Patate e ratatouille di verdure,"Ristorante,Carne/Pesce",€17.50,€17.50,checked,2023-02-24 10:23,2023-02-24 16:58
+ChrisCake,"Ristorante,Dolci",€6.50,€6.50,checked,2023-02-24 10:24,2023-02-24 16:58
+Tiramisù,"Ristorante,Dolci",€6.00,€6.00,checked,2023-02-24 10:25,2023-02-24 16:58
+Mascarpone con torta cioccolato,"Ristorante,Dolci",€6.00,€6.00,checked,2023-02-24 10:25,2023-02-24 16:58
+Tavolozzone,"Ristorante,Dolci",€10.00,€10.00,checked,2023-02-24 10:26,2023-02-24 16:58
+Gelato,"Ristorante,Dolci",€3.00,€3.00,checked,2023-02-24 10:26,2023-02-24 16:58
+Gelato affogato al caffè,"Ristorante,Dolci",€4.50,€4.50,checked,2023-02-24 10:26,2023-02-24 16:58
+Romana,Pizzeria,€6.00,€6.00,checked,2023-02-24 10:29,2023-02-24 16:58
+Margherita,Pizzeria,€7.00,€7.00,checked,2023-02-24 10:29,2023-02-24 16:58
+Diavola,Pizzeria,€9.50,€9.50,checked,2023-02-24 10:30,2023-02-24 16:58
+Diavola Special,Pizzeria,€10.50,€10.50,checked,2023-02-24 10:30,2023-02-24 16:58
+Napoli,Pizzeria,€8.50,€8.50,checked,2023-02-24 10:30,2023-02-24 16:58
+Capricciosa,Pizzeria,€11.50,€11.50,checked,2023-02-24 10:32,2023-02-24 16:58
+Tropea,Pizzeria,€8.50,€8.50,checked,2023-02-24 10:32,2023-02-24 16:58
+Popeye,Pizzeria,€9.50,€9.50,checked,2023-02-24 10:30,2023-02-24 16:58
+Hawaii,Pizzeria,€9.00,€9.00,checked,2023-02-24 10:30,2023-02-24 16:58
+Hard Rock,Pizzeria,€13.00,€13.00,checked,2023-02-24 10:31,2023-02-24 16:58
+Aly,Pizzeria,€10.00,€10.00,checked,2023-02-24 10:31,2023-02-24 16:58
+4 Fromaggi,Pizzeria,€10.00,€10.00,checked,2023-02-24 10:31,2023-02-24 16:58
+Emilia,Pizzeria,€12.50,€12.50,checked,2023-02-24 10:31,2023-02-24 16:58
+Vecchia Modena,Pizzeria,€10.00,€10.00,checked,2023-02-24 10:31,2023-02-24 16:58
+Barbacoa,Pizzeria,€11.00,€11.00,checked,2023-02-24 10:31,2023-02-24 16:58
+Parmigiana,Pizzeria,€10.00,€10.00,checked,2023-02-24 10:31,2023-02-24 16:58
+Calzone,Pizzeria,€10.00,€10.00,checked,2023-02-24 10:31,2023-02-24 16:58
+Calzone Mamma Mia!,Pizzeria,€13.50,€13.50,checked,2023-02-24 10:31,2023-02-24 16:58
+La Isla,Pizzeria,€11.50,€11.50,checked,2023-02-24 10:32,2023-02-24 16:58
+Salmone in Festa,Pizzeria,€12.50,€12.50,checked,2023-02-24 10:32,2023-02-24 16:58
+Frutti di Mare,Pizzeria,€13.50,€13.50,checked,2023-02-24 10:32,2023-02-24 16:58
+Acqua Gas,Bere,€1.00,€1.00,checked,2023-02-24 10:37,2023-02-24 16:58
+Acqua Nat,Bere,€1.00,€1.00,checked,2023-02-24 10:37,2023-02-24 16:58
+Birra Media,Bere,€5.00,€5.00,checked,2023-02-24 10:38,2023-02-24 16:58
+Birra Piccola,Bere,€4.00,€4.00,checked,2023-02-24 10:38,2023-02-24 16:58
